@@ -1,0 +1,10 @@
+{
+  "name": "functions",
+  "description": "Servidor OPCIONAL de lembretes push (30 Dias)",
+  "engines": { "node": "20" },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^12.6.0",
+    "firebase-functions": "^6.0.1"
+  }
+}
